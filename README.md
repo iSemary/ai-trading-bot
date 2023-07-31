@@ -1,4 +1,6 @@
-# TBot
+Ai Trading Bot for prediction of the EUR/USD pair changes in the FOREX market.
+
+# IDE Setting
 
 In VSCode set notebook.output.textLineLimit to 3000000 for limit execution error.
 
